@@ -1,7 +1,7 @@
 <template>
   <div class="about">
-    <h1>Welcome to my portfolio.  I'm always interested in learning new concepts and applying new technologies.</h1>
-    <h2>I developed this web page in order to learn more about Vue.js and font awesome.</h2>
+    <h1>Welcome to my portfolio.</h1>
+    <h2>I developed this web page in order to learn more about Vue.js and Font Awesome. However, I'm always interested in learning new concepts and applying new technologies.</h2>
 
     <div class="worklinks">
        <h3>Relevant Links</h3>
@@ -31,6 +31,7 @@ export default {
 
 .about {
   background-color: #3A4E48;
+  color: whitesmoke;
 }
 
 .worklinks ul li{

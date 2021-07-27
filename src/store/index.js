@@ -49,7 +49,7 @@ export default new Vuex.Store({
         title: "Company Town",
         author: "Madeline Ashby",
         isbn: "9780765382917",
-        details: "In this sci-fi mystery, the protagonist lives in a community based on an oil rig, and must investigate mysterious deaths in her community."
+        details: "In this sci-fi mystery, the protagonist must investigate mysterious deaths in her oil rig community."
       },
       {
         title: "Lower Ed",
