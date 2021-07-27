@@ -11,6 +11,9 @@
 
 <!-- Colors:Black: #040303; Dark Slate Gray: #3A4E48; Xanadu: #6A7B76; Artichoke: #8B9D83 Pale Silver: #BEB0A7 -->
 <style>
+html{
+  background-color: #3A4E48;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

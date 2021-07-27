@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <h1>Welcome to my portfolio.  I'm always interested in learning new concepts and applying new technologies.</h1>
+    <h2>I developed this web page in order to learn more about Vue.js and font awesome.</h2>
 
     <div class="worklinks">
        <h3>Relevant Links</h3>
